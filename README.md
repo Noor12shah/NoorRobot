@@ -19,13 +19,13 @@ The easiest way to deploy this great bot! is click on button below
 Make sure you have an account of heroku and follow all the steps required.
 
 Deploy to Heroku:
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/WolfGangIndia/WolfUserBot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Noor12shah/NoorRobot)
 <p align="center">
-  <a href="https://github.com/WolfGangIndia/WolfUserBot/fork">
-    <img src="https://img.shields.io/github/forks/WolfGangIndia/WolfUserBot?label=Fork&style=social">
+  <a href="https://github.com/Noor12shah/NoorRobot/fork">
+    <img src="https://img.shields.io/github/forks/Noor12shah/NoorRobot?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/WolfGangIndia/WolfUserBot">
-    <img src="https://img.shields.io/github/stars/WolfGangIndia/WolfUserBot?style=social">
+  <a href="https://github.com/Noor12shah/NoorRobot">
+    <img src="https://img.shields.io/github/stars/Noor12shah/NoorRobot?style=social">
   </a>
 </p>

@@ -5,11 +5,11 @@
 
 ## What is it?
 
- NoorRobot is  a modular Telegram userbot running on Python3, which can be coupled up with Heroku.
+ NoorRobot is  a modular Telegram bot running on Python3, which can be coupled up with Heroku.
 
 NoorRobot is currently maintained by [Noor](https://t.me/Innocent_Noor) [٠•●♥ ⁱ ᵃᵐ ᵇˡᵃᶜᵏᵖⁱⁿᵏ ᵏⁱˡˡᵉʳ] It started as a simple bot,
 
-which helped with group management, [NoorRobot](https://github.com/Noor12shah/NoorRobot).
+which helped with group management, [TeleGraM channel](https://t.me/joinchat/AAAAAFUECMF-uWBXFEQ52w).
 
 It has since evolved, becoming extremely modular and simple to use.
 

@@ -9,7 +9,7 @@
 
 NoorRobot is currently maintained by [Noor](https://t.me/Innocent_Noor) [٠•●♥ ⁱ ᵃᵐ ᵇˡᵃᶜᵏᵖⁱⁿᵏ ᵏⁱˡˡᵉʳ] It started as a simple bot,
 
-which helped with group management, [TeleGraM channel](https://t.me/joinchat/AAAAAFUECMF-uWBXFEQ52w).
+Contact to me  [TeleGraM ](https://t.me/Innocent_Noor).
 
 It has since evolved, becoming extremely modular and simple to use.
 
